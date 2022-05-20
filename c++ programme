@@ -1,7 +1,7 @@
 "change in original copy"
 2-d array after 2nd question
 class Arith_num  
-{  
+{  //hello
     // declare data member or variable  
     int num;  
     public:  
